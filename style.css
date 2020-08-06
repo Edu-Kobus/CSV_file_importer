@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(97, 97, 197);
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+    margin: 70px;
+}
+
+.jumbotron h2{
+    color: rgb(111, 40, 170);
+    font-size: 50px;
+    
+}
