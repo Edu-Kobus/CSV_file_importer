@@ -44,7 +44,6 @@ O .csv importado na aplicação contém 10000 produtos dos quais são separados 
 
 
 &nbsp;
-
 &ensp;
 
 ## :electric_plug: Conexão e extensão CSV:
