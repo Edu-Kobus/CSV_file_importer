@@ -40,7 +40,7 @@ A tabela em questão possue dois INDEX, **"id_produto"** e **"cod_barra"** para 
 
 &nbsp; 
 ## :page_with_curl:Planilha:
-O .csv importado na aplicação contém 10000 produtos dos quais são separados por **";"** sem cabeçalho na primeira linha.
+O <a href="https://github.com/Edu-Kobus/CSV_file_importer/tree/master/spreadsheets">.csv</a> importado na aplicação contém 10000 produtos dos quais são separados por **";"** sem cabeçalho na primeira linha.
 
 
 &nbsp;
