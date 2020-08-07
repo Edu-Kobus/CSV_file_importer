@@ -66,4 +66,13 @@ Em seguida para reconhecimento de nosso *.csv* devemos digitar o nome da tabela 
 
 ## :phone: Teste comunicação:
 
+Bom dia! como está, tudo certo ? 
 
+&ensp;
+Estou entrando em contato para lhe passar uma posição quanto as melhorias do relatório no qual nos havia solicitado, o mesmo se encontra ainda em fase de desenvolvimento/testes, onde ocassionalmente em testes mais recentes encontramos falhas, possíveis erros, os quais nosso time já está trabalhando rigorosamente em uma correção para finaliza-lo, juntamente com estas informações infelizmente nosso prazo de entrega se extenderá por conta deste imprevisto, onde este prazo levará em média mais 14 dias para conclusão, nosso time fará o máximo para entregar o quanto antes, no qual o mesmo se encontra como prioridade em nossa demanda. Como reconhecemos sua preferencia pelos nossos serviços queremos entregar o melhor produto sem falhas! Pedimos-lhes desculpas quanto ao descomprimento de prazo e solicitamos a compreensão desde já. 
+
+&ensp;
+Att. 
+
+&ensp;
+Eduardo Kobus - Técnico de suporte CRM Senior
