@@ -11,7 +11,6 @@ Importador de arquivos CSV foi desenvolvido com intuito de importar planilhas di
 * HTML
 * CSS
 * Apache
-* MySQL
 * Para deploy da aplicação foi utilizado um servidor local através do <a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a>
 * Banco de dados utilizado MySQL e <a href="https://dev.mysql.com/downloads/workbench/">MySQL Workbench</a> para visualização. Juntamente com PHPMyAdmin para criação e edição do banco de dados.
 
