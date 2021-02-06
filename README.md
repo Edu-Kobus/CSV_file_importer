@@ -1,5 +1,4 @@
 # :page_facing_up: Importador CSV 
-   **Desafio Senior**
 
 &nbsp;
 ## :book: Sobre: 
